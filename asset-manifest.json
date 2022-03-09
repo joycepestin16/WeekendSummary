@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/WeekendSummary/static/css/main.d8aea934.css",
+    "main.js": "/WeekendSummary/static/js/main.1893fbdd.js",
+    "static/js/787.aa5b4515.chunk.js": "/WeekendSummary/static/js/787.aa5b4515.chunk.js",
+    "static/media/memorial.jpg": "/WeekendSummary/static/media/memorial.ca447611c2844147d5bd.jpg",
+    "static/media/pizza.jpg": "/WeekendSummary/static/media/pizza.48fa0d624abe32959727.jpg",
+    "static/media/home.jpg": "/WeekendSummary/static/media/home.ff08c19021645aaca27e.jpg",
+    "static/media/bg.jpg": "/WeekendSummary/static/media/bg.53011d557cb55e29a011.jpg",
+    "static/media/travel.jpg": "/WeekendSummary/static/media/travel.a6f93d7105242d85e523.jpg",
+    "static/media/valo.jpg": "/WeekendSummary/static/media/valo.554b821ed5a46a233f8e.jpg",
+    "static/media/workout.jpg": "/WeekendSummary/static/media/workout.036b5d3ec5c0b2969798.jpg",
+    "static/media/fit.jpg": "/WeekendSummary/static/media/fit.f288dce5ae024df67ffe.jpg",
+    "static/media/code.jpg": "/WeekendSummary/static/media/code.2c64f83aaa0964d156ae.jpg",
+    "static/media/sunrise.jpg": "/WeekendSummary/static/media/sunrise.b949cfe3ba70a102f2d5.jpg",
+    "static/media/logo.svg": "/WeekendSummary/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/WeekendSummary/index.html",
+    "main.d8aea934.css.map": "/WeekendSummary/static/css/main.d8aea934.css.map",
+    "main.1893fbdd.js.map": "/WeekendSummary/static/js/main.1893fbdd.js.map",
+    "787.aa5b4515.chunk.js.map": "/WeekendSummary/static/js/787.aa5b4515.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8aea934.css",
+    "static/js/main.1893fbdd.js"
+  ]
+}
