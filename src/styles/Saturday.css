@@ -1,0 +1,22 @@
+
+
+.card{
+    padding: 10px;
+    background-color: #eeebe7;
+}
+
+
+.container{
+    margin-top: 10px;
+}
+
+.container2{
+    align-items: center;
+    justify-content: center;
+}
+
+p{
+    font-family: 'Quicksand', sans-serif;
+}
+
+

@@ -1,0 +1,18 @@
+img.img{
+    width: 250px;
+    height: auto;
+ 
+}
+
+.card{
+    padding: 10px;
+    background-color: #eeebe7;
+    align-items: center;
+}
+body{
+    background-color: #eeebe7;
+}
+
+.container{
+    margin-top: 10px;
+}
